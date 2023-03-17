@@ -115,11 +115,18 @@ body {
 }
 
 .results-carousel .item {
-  margin: 5px;
+  margin: 20px;
   overflow: hidden;
   padding: 20px;
   font-size: 0;
 }
+
+.results-carousel img {
+  margin: auto;
+  display: block;
+  width: 500px;
+}
+
 
 .results-carousel video {
   margin: 0;
@@ -132,6 +139,4 @@ body {
 .eql-cntrb { 
   font-size: smaller;
 }
-
-
 
